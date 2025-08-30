@@ -1,1 +1,1 @@
-# Proyecto papelerías PYM 
+# Proyecto papelerías PYM SS
